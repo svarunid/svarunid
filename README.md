@@ -2,7 +2,7 @@
 
 ### I am a Student developer!👨‍🎓
 
-## Reach out to me:
+### Reach out to me:
 
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
