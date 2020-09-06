@@ -14,15 +14,18 @@
 
 [![Anurag's github stats](https://github-readme-stats.svarunid.vercel.app/api?username=svarunid&count_private=true&show_icons=true&theme=radical)](https://github.com/svarunid/github-readme-stats)
 
+### Currently working on 🔭
+
+<a href="https://github.com/svarunid/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=reactjs-practice&theme=radical" />
+</a>
+<a href="https://github.com/svarunid/convoychat">
+  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=nodejs-practice&theme=radical" />
+</a>
+
 ### My Tools 🔨
 
 [![Top Langs](https://github-readme-stats.svarunid.vercel.app/api/top-langs/?username=svarunid&layout=compact&theme=radical)](https://github.com/svarunid/github-readme-stats)
-
-### Currently working on 🔭
-
-[![ReadMe Card](https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=nodejs-practice&theme=radical)](https://github.com/svarunid/nodejs-practice)
-
-[![ReadMe Card](https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=reactjs-practice&theme=radical)](https://github.com/svarunid/reactjs-practice)
 
 ### Reach out to me 💕
 
