@@ -10,6 +10,10 @@
 - 😄 Pronouns: SV
 - ⚡ Fun facts: I Love coding, I'm a Goalkeeper.
 
+### My Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svarunid)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Reach out to me:
 
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
