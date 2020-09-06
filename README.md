@@ -16,10 +16,10 @@
 
 ### Currently working on 🔭
 
-<a href="https://github.com/svarunid/github-readme-stats">
+<a href="https://github.com/svarunid/reactjs-practice">
   <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=reactjs-practice&theme=radical" />
 </a>
-<a href="https://github.com/svarunid/convoychat">
+<a href="https://github.com/svarunid/nodejs-practice">
   <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=nodejs-practice&theme=radical" />
 </a>
 
