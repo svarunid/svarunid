@@ -14,6 +14,16 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svarunid&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### My languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svarunid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Currently working on
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=svarunid&repo=nodejs-practice)](https://github.com/svarunid/nodejs-practice)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=svarunid&repo=reactjs-practice)](https://github.com/svarunid/reactjs-practice)
+
 ### Reach out to me:
 
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
