@@ -12,20 +12,20 @@
 
 ### My Stats 🤩
 
-[![Anurag's github stats](https://github-readme-stats.svarunid.vercel.app/api?username=svarunid&count_private=true&show_icons=true&theme=radical)](https://github.com/svarunid/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.svarunid.vercel.app/api?username=svarunid&count_private=true&show_icons=true)](https://github.com/svarunid/github-readme-stats)
 
 ### Currently working on 🔭
 
 <a href="https://github.com/svarunid/reactjs-practice">
-  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=reactjs-practice&theme=radical" />
+  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=reactjs-practice" />
 </a>
 <a href="https://github.com/svarunid/nodejs-practice">
-  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=nodejs-practice&theme=radical" />
+  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=nodejs-practice" />
 </a>
 
 ### My Tools 🔨
 
-[![Top Langs](https://github-readme-stats.svarunid.vercel.app/api/top-langs/?username=svarunid&layout=compact&theme=radical)](https://github.com/svarunid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.svarunid.vercel.app/api/top-langs/?username=svarunid&layout=compact)](https://github.com/svarunid/github-readme-stats)
 
 ### Reach out to me 💕
 
