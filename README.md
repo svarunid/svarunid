@@ -15,6 +15,8 @@
 
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br/>
+
 ### My Stats 🤩
 
 [![Anurag's github stats](https://github-readme-stats.svarunid.vercel.app/api?username=svarunid&count_private=true&show_icons=true)](https://github.com/svarunid/github-readme-stats)
