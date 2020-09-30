@@ -2,13 +2,18 @@
 
 ### I am a Student developer!👨‍🎓
 
-- 🔭 I’m currently working on Chat App
-- 🌱 I’m currently learning NodeJS and Data Structures
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with FlutterFire
-- 💬 Ask me about App Development in Flutter
-- 😄 Pronouns: SV
+- 🔭 I’m currently working on E-Commerce App.
+- 🌱 I’m currently learning NodeJS, DataScience and Golang.
+- 👯 I’m looking to collaborate on Flutter.
+- 💬 Ask me about App Development in Flutter.
+- 😄 Pronouns: His/Him.
 - ⚡ Fun facts: I Love coding, I'm a Goalkeeper.
+
+### Reach out to me 💕
+
+[<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ### My Stats 🤩
 
@@ -27,16 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.svarunid.vercel.app/api/top-langs/?username=svarunid&layout=compact)](https://github.com/svarunid/github-readme-stats)
 
-### Reach out to me 💕
-
-[<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" width="22" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 <br/>
 
 [twitter]: https://www.twitter.com/svarunid/
 [linkedin]: https://www.linkedin.com/in/svarunid/
-[instagram]: https://www.instagram.com/mouse.codes/
