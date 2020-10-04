@@ -23,8 +23,8 @@
 
 ### Currently working on 🔭
 
-<a href="https://github.com/svarunid/reactjs-practice">
-  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=reactjs-practice" />
+<a href="https://github.com/svarunid/golang-practice">
+  <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=golang-practice" />
 </a>
 <a href="https://github.com/svarunid/nodejs-practice">
   <img align="center" src="https://github-readme-stats.svarunid.vercel.app/api/pin/?username=svarunid&repo=nodejs-practice" />
