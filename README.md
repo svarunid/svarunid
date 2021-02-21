@@ -6,5 +6,5 @@ I am a student currently pursuing my *Bachelor’s degree in Computer Science an
 programming and keen to keep expanding my knowledge.
 
 ### Skills
-+ Flutter and Dart(Indermediate)
-+ Golang(Beginner)
++ Flutter and Dart (Indermediate)
++ Golang (Beginner)
