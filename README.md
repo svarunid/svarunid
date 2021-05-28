@@ -8,3 +8,4 @@ programming and keen to keep expanding my knowledge.
 ### Skills
 + Flutter and Dart (Indermediate)
 + Golang (Beginner)
++ Machine Learning in Python (Beginner)
