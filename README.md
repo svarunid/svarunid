@@ -2,9 +2,12 @@
 
 ____________
 
-I am a student currently pursuing my *Bachelor’s degree in Computer Science and Engineering*. I'm proud
-to be the part of community of people who make our lives easier through application development and 
-automation. Often, I learn new stuffs and keen to keep expanding my knowledge.
+I am a student currently pursuing my *Bachelor’s degree in Computer Science and Engineering*. I was a App Developer.
+Currently into **Machine Learning**.
+
++ Working on ⚒: Finished Dog Breed Calssification Project
++ Hobbies 🎲: Football ⚽, Anime 🍡
+
 
 ### Skills
 + Flutter and Dart (Indermediate)
