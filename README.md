@@ -5,7 +5,7 @@ ____________
 I am a student currently pursuing my *Bachelor’s degree in Computer Science and Engineering*. I was a App Developer.
 Currently into **Machine Learning**. Adore Technological Innovations ❤
 
-+ Working on ⚒: Heart Disease Classification
++ Working on ⚒: Time Series Analysis and Forecasting
 + Hobby: Songs and Dance 🎶, Anime 🍡
 + Pronoun: Him/His 👦
 
