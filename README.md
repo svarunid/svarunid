@@ -11,5 +11,5 @@ Currently into **Machine Learning**. Adore Technological Innovations ❤
 
 
 ### Skills
-+ Flutter and Dart (Indermediate)
-+ Machine Learning in Python (Beginner)
++ Flutter and Dart
++ Machine Learning in Python
