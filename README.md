@@ -11,5 +11,5 @@ Currently into **Machine Learning**. Adore Technological Innovations ❤
 
 
 ### Skills
-+ Cross Platfrom Application Development
++ Full Stack Cross Platfrom Application Development
 + Machine Learning
