@@ -11,4 +11,4 @@ I'm a *CS underGrad*. **Self Taught** Deep Learning Practitioner. Adore Technolo
 
 ### Skills
 + Full Stack Cross Platfrom Application Development
-+ Machine Learning
++ Deep Learning
