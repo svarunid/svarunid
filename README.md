@@ -2,7 +2,7 @@
 
 ____________
 
-I'm a *CS underGrad*. **Self Taught** Deep Learning Practitioner. Adore Technological Innovations ❤
+I'm a *CS graduate*. **Self Taught** Deep Learning Practitioner. Adore Technological Innovations ❤
 
 + Working on ⚒: The News App
 + Hobby: Songs and Dance 🎶, Anime 🍡
