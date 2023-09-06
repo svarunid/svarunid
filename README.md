@@ -2,14 +2,14 @@
 
 ____________
 
-I'm a ***Junior Research Engineer @ Buddi AI***, working on projects that automate
-tedious processes of the healthcare sector. I view everything man had ever made 
-as an art, and hence I'm also an **Aesthete**. As y work is primarily related to AI,
-the rapid advancements had caused me FOMO and also made me excited to be a part  of 
+I'm a ***Junior Research Engineer @ Buddi AI***, working on projects that automate <br>
+tedious processes of the healthcare sector. I view everything man had ever made <br>
+as an art, and hence I'm also an **Aesthete**. As my work is primarily related to AI, <br>
+the rapid advancements had caused me FOMO and also made me excited to be a part  of <br>
 it. 
+<br><br>
+My casual life includes more **music** - the best art of the universe, **anime** - art <br>
+from Japan, **cars / bikes** - the art that drives my adrenaline, etc. <br>
 
-My casual life includes more **music** - the best art of the universe, **anime** - art
-from Japan, **cars / bikes** - the art that drives my adrenaline, etc. 
-
-You can read my articles on [svarunid@medium](https://svarunid.medium.com/).
+You can read my articles on [svarunid@medium](https://svarunid.medium.com/). <br>
 Let's connect on [svarunid@linkedIn](https://www.linkedin.com/in/svarunid/)
