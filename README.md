@@ -11,5 +11,5 @@ it.
 My casual life includes more **music** - the best art of the universe, **anime** - art 
 from Japan, **cars / bikes** - the art that drives my adrenaline, etc. <br>
 
-You can read my articles on [svarunid@medium](https://svarunid.medium.com/). 
+You can read my articles on [svarunid@medium](https://svarunid.medium.com/). <br>
 Let's connect on [svarunid@linkedIn](https://www.linkedin.com/in/svarunid/)
