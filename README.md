@@ -2,10 +2,8 @@
 
 ____________
 
-I'm a passionate ***Deep Learning Engineer*** and was previously a ***Junior Research 
-Engineer @ Buddi AI***, worked on projects that automate tedious processes of the 
-healthcare sector. I view everything man had ever made as an art, and hence I'm also 
-an **Aesthete**. 
+I'm a passionate ***Deep Learning Engineer @ AskEVA***, I get to build the AI systems that power natural conversations and neural
+speech recognition. I view everything man had ever made as an art, and hence I'm also an **Aesthete**. 
 <br><br>
 As my work is primarily related to AI, the rapid advancements had caused me **FOMO** and also
 made me excited to be a part  of it. I believe *Artificial Intelligence* has immense potential to 
