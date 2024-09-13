@@ -11,6 +11,6 @@ ample opportunities to take leverage.
 Aside from being a founder, my casual life includes more **music** - the best art of the 
 universe, **anime** - art from Japan, **cars / bikes** - the art that drives my adrenaline, 
 etc.
-<br>
+<br><br>
 You can read my articles on [svarunid@medium](https://svarunid.medium.com/). <br>
 Let's connect on [svarunid@linkedIn](https://www.linkedin.com/in/svarunid/).
