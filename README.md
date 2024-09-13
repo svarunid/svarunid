@@ -8,9 +8,8 @@ is simple, as humans we are capable of learning and achieving anything by oursel
 need an environment with great curriculum, resources and tools, peer and mentor network and 
 ample opportunities to take leverage.
 <br><br>
-Aside from being a founder, my casual life includes more **music** - the best art of the 
-universe, **anime** - art from Japan, **cars / bikes** - the art that drives my adrenaline, 
-etc.
+Aside from being a founder, my casual life includes more **music**, **anime**, **programming**, 
+etc. I also _write_, _play_, _dance_ and _drive_. 
 <br><br>
 You can read my articles on [svarunid@medium](https://svarunid.medium.com/). <br>
 Let's connect on [svarunid@linkedIn](https://www.linkedin.com/in/svarunid/).
