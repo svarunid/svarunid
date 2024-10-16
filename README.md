@@ -2,10 +2,11 @@
 
 ____________
 
-Watashiwa **Arun S V** desu. Ahem, that's all the japanese I know. I'm building a college 
-that I've always dreamt to study through [**Tiny Leap**](https://tinyleap.org). The notion 
-is simple, as humans we are capable of learning and achieving anything by ourselves. We just 
-need an environment with great curriculum, resources and tools, peer and mentor network and 
+Watashiwa **Arun S V** desu. Ahem, that's all the japanese I know. I'm a professional deep 
+learning engineer who leverages software engineering to build neural networks and libraries. 
+I'm also building a college that I've always dreamt to study through [**Tiny Leap**](https://tinyleap.org). 
+The notion is simple, as humans we are capable of learning and achieving anything by ourselves. 
+We just need an environment with great curriculum, resources and tools, peer and mentor network and 
 ample opportunities to take leverage.
 <br><br>
 Aside from being a founder, my casual life includes more **music**, **anime**, **programming**, 
