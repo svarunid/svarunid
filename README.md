@@ -2,11 +2,11 @@
 
 ____________
 
-Watashiwa **Arun S V** desu. Ahem, that's all the japanese I know. I'm a computer science professional who leverages software engineering to build neural networks, libraries and applied AI applications. 
+Watashiwa **Arun S V** desu. Ahem, that's all the japanese I know. I'm a hardcore software engineer leveraging modern coding tools ([zed](https://zed.dev/), [claude code](https://docs.claude.com/en/docs/claude-code/overview), [warp](https://www.warp.dev/), [amp](https://ampcode.com/), [crush](https://github.com/charmbracelet/crush), etc.) to build **AI-native** applications across web, mobile and other stack. (inclined towards backend). 
 I'm also constantly thinking about building a college that I've always dreamt to study through [**Tiny Leap**](https://tinyleap.org). 
 The notion is simple, as humans we are capable of learning and achieving anything by ourselves. 
 We just need an environment with great curriculum, resources and tools, peer and mentor network and 
-ample opportunities to take leverage. That's my hobby though 😅.
+ample opportunities to take leverage.
 <br><br>
 Aside from being a software engineer, my casual life includes more **music**, **anime**, 
 **programming**, etc. I also _write_, _play_, _dance_ and _drive_. 
