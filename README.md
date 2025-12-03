@@ -2,7 +2,7 @@
 
 ____________
 
-Watashiwa **Arun S V** desu. Ahem, that's all the japanese I know. I'm a hardcore software engineer leveraging modern coding tools ([zed](https://zed.dev/), [claude code](https://docs.claude.com/en/docs/claude-code/overview), [warp](https://www.warp.dev/), [amp](https://ampcode.com/), [crush](https://github.com/charmbracelet/crush), etc.) to build **AI-native** applications across web, mobile and other stack. (inclined towards backend). 
+Watashiwa [**Arun S V**](https://svarunid.github.io) desu. Ahem, that's all the japanese I know. I'm a hardcore software engineer leveraging modern coding tools ([zed](https://zed.dev/), [claude code](https://docs.claude.com/en/docs/claude-code/overview), [warp](https://www.warp.dev/), [amp](https://ampcode.com/), [crush](https://github.com/charmbracelet/crush), etc.) to build **AI-native** applications across web, mobile and other stack. (inclined towards backend). 
 I'm also constantly thinking about building a college that I've always dreamt to study through [**Tiny Leap**](https://tinyleap.org). 
 The notion is simple, as humans we are capable of learning and achieving anything by ourselves. 
 We just need an environment with great curriculum, resources and tools, peer and mentor network and 
